@@ -1,4 +1,3 @@
-```markdown
 # 🏦 Banking Analytics & Forecasting System
 
 **Advanced ensemble forecasting for top 10 US banks using SARIMA + Prophet models**
